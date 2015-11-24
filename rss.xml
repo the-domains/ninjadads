@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[NinjaDads]]></title>
         <description><![CDATA[NinjaDads]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ninjadads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 10:03:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 Nov 2015 16:16:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ninjadads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My first post]]></title>
             <description><![CDATA[<article><h1>My first post</h1><p>This is my first post</p></article>]]></description>
-            <link>undefinedmy-first-post/index.html</link>
+            <link>https://thegrid.ai/ninjadads/my-first-post/index.html</link>
             <guid isPermaLink="false">88e031f2-f89d-424b-9295-781b011b450f</guid>
-            <pubDate>Tue, 24 Nov 2015 10:03:46 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2015 16:16:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
