@@ -1,0 +1,28 @@
+name: NinjaDads
+favicon: null
+layout_spectrum: 0.23238381906412542
+typography_spectrum: 0.7493065607268363
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7221634993329644
+  lightness: 0.8386561064980924
+  saturation: 0.26178218703716993
+  rhythmicContrast: 0.7191321575082839
+purpose: []
